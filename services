@@ -1,0 +1,30 @@
+Command name argument expected.
+
+[m[1mAvailable command groups for gcloud app:[m
+
+[m  [1mApp Engine[m
+      domain-mappings         View and manage your App Engine domain mappings.
+      firewall-rules          View and manage your App Engine firewall rules.
+      instances               View and manage your App Engine instances.
+      logs                    Manage your App Engine logs.
+      operations              View and manage your App Engine Operations.
+      regions                 View regional availability of App Engine runtime
+                              environments.
+      runtimes                List runtimes available to Google App Engine.
+      services                View and manage your App Engine services.
+      ssl-certificates        View and manage your App Engine SSL certificates.
+      versions                View and manage your App Engine versions.
+
+[m[1mAvailable commands for gcloud app:[m
+
+      browse                  Open the current app in a web browser.
+      create                  Create an App Engine app within the current Google
+                              Cloud Project.
+      deploy                  Deploy the local code and/or configuration of your
+                              app to App Engine.
+      describe                Display all data about an existing service.
+      open-console            Open the App Engine dashboard, or log viewer, in a
+                              web browser.
+      update                  Updates an App Engine application.
+
+[m
